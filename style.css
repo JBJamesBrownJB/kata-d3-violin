@@ -1,0 +1,17 @@
+path.hover{
+    stroke-width: 3px;
+    stroke: yellow;
+    transition: stroke-width 20ms;
+}
+
+.axis line{
+    stroke: gray
+}
+
+.axis path{
+    stroke: gray;
+}
+
+.axis text{
+    color: gray;
+}
